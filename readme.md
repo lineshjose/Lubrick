@@ -1,4 +1,4 @@
-Lubrick  11.09
+Lubrick
 ====================================
 This is a Free WordPress mobile phone theme with flexible-width design.
 
