@@ -23,10 +23,15 @@ If you would like to legally remove the copyright, please send an email to lines
 Installation:
 ------------------------------------
 1: Extract the downloaded .zip file in a convenient location
+
 2: upload the '/theme/lubrick/' folder to '/wp-content/themes/' directory in your web server.
+
 3: Log in to the WordPress Administration Dashboard
+
 4: Select the 'Themes' sub-menu from 'Appearance' menu
+
 5: Select the 'Lubrick' theme from the available list of themes to preview
+
 6: Activate the theme.
 	
 	
