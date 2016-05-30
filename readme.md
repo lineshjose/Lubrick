@@ -1,6 +1,6 @@
 Lubrick
 ====================================
-This is a Lubrick Free WordPress theme.
+A free WordPress theme.
 
 
  Theme Copyright:   
