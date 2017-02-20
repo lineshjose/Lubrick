@@ -1,7 +1,7 @@
 # Lubrick
 A free WordPress theme.
 
-![beautiful screenshot](./screenshot.png)
+![beautiful screenshot](./lubrick.png)
 
 
 ## Installation:
